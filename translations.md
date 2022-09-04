@@ -15,10 +15,20 @@
 ## E
 
 - [↑ equity](https://en.wikipedia.org/wiki/Equity_(finance))
+- **exchange-traded fund** — биржевой фонд; биржевой инвестиционный фонд;
+биржевой индексный фонд
 
 ## F
 
 - **funds** — денежные средства; деньги
+
+## M
+
+- **mutual fund** — паевой фонд; паевой инвестиционный фонд
+
+## P
+
+- **profit** — прибыль; обычно мн. profits
 
 ## R
 
