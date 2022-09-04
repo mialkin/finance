@@ -2,25 +2,29 @@
 
 ## A
 
-- **Asset** — актив; капитальный актив
+- **asset** — актив; капитальный актив
 
 ## B
 
-- **Bond** — долговое обязательство; обязательство; облигация
+- **bond** — долговое обязательство; обязательство; облигация
 
 ## C
 
-- **Capital asset** — капитальный актив; актив
+- **capital asset** — капитальный актив; актив
 
 ## E
 
-- [↑ Equity](https://en.wikipedia.org/wiki/Equity_(finance))
+- [↑ equity](https://en.wikipedia.org/wiki/Equity_(finance))
 
 ## F
 
-- **Funds** — денежные средства, деньги
+- **funds** — денежные средства; деньги
+
+## R
+
+- **revenue** — доход; выручка
 
 ## S
 
-- [↑ Share](https://en.wikipedia.org/wiki/Share_(finance)) — акция
-- [↑ Stock](https://en.wikipedia.org/wiki/Stock)
+- **share** — акция; доля, пай
+- **stock** — доля акций; амер. акции
